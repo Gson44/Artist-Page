@@ -1,5 +1,11 @@
 title: "My Art Portfolio"
 
+url: "https://gson44.github.io"
+baseurl: "/Artist-Page"
+
+include:
+  - assets
+
 collections:
   authors:
     output: true
